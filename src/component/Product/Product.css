@@ -1,0 +1,18 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.product h4{
+    color: blue;
+    font-weight: 400;
+}
+.add-to-cart{
+    width: 200px;
+    height: 25px;
+    background-color: #F0C14B;
+    border: 1px solid #846A29;
+    border-radius: 3px;
+}

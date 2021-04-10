@@ -1,0 +1,11 @@
+.item h4{
+    color: blue;
+    font-weight: 400;
+}
+.remove{
+    width: 200px;
+    height: 25px;
+    background-color: #F0C14B;
+    border: 1px solid #846A29;
+    border-radius: 3px;
+}

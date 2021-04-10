@@ -1,0 +1,16 @@
+.twin-container{
+    display: flex;
+}
+.product-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
+.place-order{
+    width: 200px;
+    height: 25px;
+    background-color: #F0C14B;
+    border: 1px solid #846A29;
+    border-radius: 3px;
+}
